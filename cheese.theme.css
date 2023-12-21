@@ -9,19 +9,17 @@
   * @website https://stanthecheeseman.github.io/cheesy-website/
   * @invite 3yJA2pThkH
 */
-
-/* ------BACKGROUND------ */   /*contact me (cheeseman_gt) :D*/
-body {
-    
-    background: url("https://raw.githubusercontent.com/STANTHECHEESEMAN/Discord-screen-theme/main/Background.png");           
+/* ------BACKGROUND------ */
+  body
+  {
+    background: url(https://raw.githubusercontent.com/STANTHECHEESEMAN/Discord-screen-theme/main/Background.png);
     background-size: cover;
-}
-.appMount-3lHmkl {
-    background: rgba(0, 0, 0, .7); /*Opacity*/
-    
-    
-}
-    ::selection {background:  #1eff009e ;} /*selecton*/
+  }
+
+  .appMount-3lHmkl
+  {
+    background: rgba(225, 225, 225, .6);
+  }
 
 /* ------REMOVE GREY/WHITE BG COLORS------ */
 .theme-dark,
